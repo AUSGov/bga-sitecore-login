@@ -3226,7 +3226,7 @@ body { background: #254F90; }
 
 .logo svg { width: 100%; height: auto; margin: 0 auto; display: block; }
 
-.login-container .login-header { background: #EDCA72; padding: 16px 32px; }
+.login-container .login-header { background: #EDCA72; padding: 24px 32px; }
 
 .login-container .login-header h1 { padding: 0; margin: 0; font-size: 1.3rem; color: #254F90; text-align: center; line-height: 1.4; }
 
