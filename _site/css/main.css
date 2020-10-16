@@ -3252,7 +3252,7 @@ body { background: #254F90; }
 
 .login-container .admin-login .accordion-wrapper #accordion #different-account h3 { margin: 0; padding: 0; }
 
-.login-container .admin-login .accordion-wrapper #accordion #different-account button { padding: 0; font-size: .8rem; margin: 0; color: #333333; width: 100%; text-align: left; }
+.login-container .admin-login .accordion-wrapper #accordion #different-account button { padding: 0; font-size: .8rem; margin: 0; color: #333333; width: 100%; text-align: left; height: 26px; }
 
 .login-container .admin-login .accordion-wrapper #accordion #different-account button svg { width: 16px; height: auto; float: right; }
 
