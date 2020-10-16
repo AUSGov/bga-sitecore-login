@@ -1,3 +1,3 @@
-# Design for BGA maintenance page 
+# Design for BGA sitecore login pages 
 
-https://ausgov.github.io/bga-maintenance-page/  
+https://ausgov.github.io/bga-sitecore-login/  
